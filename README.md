@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://github.com/Albalal-x/Albalal-x/blob/main/Documents/karary%20copy.png" alt="Open Source karary university logo"/>
 
-<h3>Open Source karary University</h3>
+<h1>Open Source Karary Universit</h1>
 <p>
-  :abacus: Path to a free self-taught education in Math!
+   Path to a free self-taught education
 </p>
 <p>
   <a href="https://github.com/open-source-society/math">
