@@ -6,8 +6,8 @@
    💪Path to a free self-taught educatio🇸🇩
 </p>
 <p>
-  <a href="https://github.com/open-source-society/math">
-    <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
+  <a href="https://github.com/Albalal-x/Karary-University_EDU">
+    <img alt="Open Source Karary University" src="https://img.shields.io/badge/Karary%20university-Course-brightgreen"K
   </a>
 </p>
 </div>
