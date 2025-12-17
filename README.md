@@ -3,7 +3,7 @@
 
 <h1>Open Source Karary Universit</h1>
 <p>
-   💪Path to a free self-taught educatio🇸🇩
+   💪Path to a free self-taught education🇸🇩
 </p>
 <p>
   <a href="https://github.com/Albalal-x/Karary-University_EDU">
