@@ -3,7 +3,7 @@
 
 <h1>Open Source Karary Universit</h1>
 <p>
-   Path to a free self-taught education
+   💪Path to a free self-taught educatio🇸🇩
 </p>
 <p>
   <a href="https://github.com/open-source-society/math">
